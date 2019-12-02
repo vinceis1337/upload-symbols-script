@@ -8,7 +8,7 @@
 # -f={PATH_TO_DSYMS_ARCHIVE} or -filepath={PATH_TO_DSYMS_ARCHIVE}
 
 # Example usage:
-# ./upload_dsyms_to_firebase.sh -k=123456 -t=111111 -f=/Users/Builder/artifacts.zip
+# ./upload-symbols-to-firebase.sh -k=123456 -t=111111 -f=/Users/Builder/artifacts.zip
 
 # getopts code sourced from: https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash
 
